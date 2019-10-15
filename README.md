@@ -11,7 +11,7 @@ Java、Spring Boot、MySQL、Eclipse、Maven
 
 ## 具体效果图
 [登录界面](https://github.com/HuanbinWu/ab/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/1.png)
-[](https://github.com/HuanbinWu/ab/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/2.png)
-[](https://github.com/HuanbinWu/ab/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/3.png)
-[](https://github.com/HuanbinWu/ab/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/4.png)
-[](https://github.com/HuanbinWu/ab/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/5.png)
+[用户界面](https://github.com/HuanbinWu/ab/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/2.png)
+[菜单](https://github.com/HuanbinWu/ab/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/3.png)
+[角色](https://github.com/HuanbinWu/ab/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/4.png)
+[管理](https://github.com/HuanbinWu/ab/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/5.png)
